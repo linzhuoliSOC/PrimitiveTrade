@@ -1,2 +1,2 @@
 # PrimitiveTrade
-this is a project to simulate primitive trading--"kula ring"
+this is a project to simulate primitive trade such as "kula ring"
